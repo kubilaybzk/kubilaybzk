@@ -16,7 +16,6 @@
 
 <br />
 <br />
-<img align="left" alt="kubilaybzk's Github Stats" src="https://github-readme-stats.kubilaybzk.vercel.app/api?username=kubilaybzk&show_icons=true&hide_border=true" />
 
 [website]: https://kubilaybozak.com
 [twitter]: https://twitter.com/
