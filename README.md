@@ -22,4 +22,4 @@
 [youtube]: https://www.youtube.com/channel/UCVCGRsMBRJJkcIM2mMH_Upw
 [instagram]: https://instagram.com/kubilaybzk
 [linkedin]: https://www.linkedin.com/in/kubilaybozak/
-[Medium]: https://www.linkedin.com/in/kubilaybozak/
+[Medium]: https://kubilaybozak.medium.com/
