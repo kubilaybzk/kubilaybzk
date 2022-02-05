@@ -1,10 +1,12 @@
 ### Hi there, I'm Kubilay 👋
 
 ## I'm a Frontend Developer
-- 🌱 I’m currently learning everything  
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+<img align="right" width="auto" height="200" src="https://github.com/kubilaybzk/kubilaybzk/blob/master/code.gif">
+- 🌱 I’m currently learning everything  <br />
+- 👯 I’m looking to collaborate with other content creators<br />
+- 🥅 2021 Goals: Contribute more to Open Source projects<br />
 - ⚡ Fun fact:  
+
 
 ### Connect with me:
 
