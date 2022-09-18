@@ -4,7 +4,7 @@
 <img align="right" width="auto" height="200" src="https://github.com/kubilaybzk/kubilaybzk/blob/master/code.gif">
 - 🌱 I’m currently learning everything  <br />
 - 👯 I’m looking to collaborate with other content creators<br />
-- 🥅 2021 Goals: Contribute more to Open Source projects<br />
+- 🥅 2022 Goals: Contribute more to Open Source projects<br />
 - ⚡ Fun fact:  
 
 
