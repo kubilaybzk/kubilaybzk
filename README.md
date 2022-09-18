@@ -19,7 +19,7 @@
 <br />
 <br />
 
-[website]: https://kubilaybozak.com
+[website]: https://kubilaybzk.dev
 [twitter]: https://twitter.com/kubilaybzk
 [youtube]: https://www.youtube.com/channel/UCVCGRsMBRJJkcIM2mMH_Upw
 [instagram]: https://instagram.com/kubilaybzk
