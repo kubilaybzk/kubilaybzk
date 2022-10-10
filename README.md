@@ -1,7 +1,7 @@
 ### Hi there, I'm Kubilay 👋
 
 ## I'm a Frontend Developer
-<img align="right" width="auto" height="200" src="https://github.com/kubilaybzk/kubilaybzk/blob/master/code.gif">
+<img align="right" width="auto" height="200" width="306" src="https://github.com/kubilaybzk/kubilaybzk/blob/master/code.gif">
 - 🌱 I’m currently learning everything  <br />
 - 👯 I’m looking to collaborate with other content creators<br />
 - 🥅 2022 Goals: Contribute more to Open Source projects<br />
