@@ -27,6 +27,6 @@
 [Medium]: https://kubilaybozak.medium.com/
 
 
-<!-- [![Kubilay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kubilaybzk&theme=radical&include_all_commits=boolean&&hide=contribs&show_icons=true)](https://github.com/sulekaptan/)<br/> -->
+<!-- [![Kubilay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kubilaybzk&theme=radical&include_all_commits=boolean&&hide=contribs&show_icons=true)](https://github.com/kubilaybzk/)<br/> -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubilaybzk&layout=compact&theme=radical&langs_count=10&card_width=445&exclude_repo=GameProject,MyDictionary,ClassMethodDemo)](https://github.com/kubilaybzk/)<br>
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kubilaybzk&theme=radical&hide_border=true)](https://git.io/streak-stats) -->
