@@ -1,6 +1,6 @@
 ### Hi there, I'm Kubilay 👋
 
-## I'm a Frontend Developer
+## I'm a Software Engineer
 <img align="right" height="200" width="306" src="https://github.com/kubilaybzk/kubilaybzk/blob/master/code.gif">
 - 🌱 I’m currently learning everything  <br />
 - 👯 I’m looking to collaborate with other content creators<br />
