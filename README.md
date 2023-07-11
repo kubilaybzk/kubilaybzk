@@ -8,7 +8,6 @@ Hi there, I'm Kubilay 👋<br>- 🌱 I’m currently learning everything<br>- �
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kubilaybzk&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kubilaybzk&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kubilaybzk&theme=nightowl&hide_border=false)
 ## 🏆 GitHub Trophies
